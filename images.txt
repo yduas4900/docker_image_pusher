@@ -1,2 +1,2 @@
 xhofe/alist:latest
-dreamwsbg/openwrt:12.0
+dreamwsbg/openwrt:latest
